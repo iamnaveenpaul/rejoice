@@ -66,7 +66,7 @@ Once the maintainers get involved, they will follow a documented series of steps
 You may get in touch with the maintainer team through any of the following methods:
 
   * Through email:
-    * [hello@griva.in](mailto:hello@griva.in) (Rejoice)
+    * [hello@thebladeofgrass.com](mailto:hello@thebladeofgrass.com) (Rejoice)
 
   * Through Twitter:
     * [@Rejoice](https://twitter.com/Rejoice) (Rejoice)

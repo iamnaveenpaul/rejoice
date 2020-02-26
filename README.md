@@ -1,11 +1,11 @@
-# [Alembic](https://griva.in/)
+# [Alembic](https://thebladeofgrass.com/)
 [![Gem Version](https://badge.fury.io/rb/alembic-jekyll-theme.svg)](https://badge.fury.io/rb/alembic-jekyll-theme)
 
 ⚗ A Jekyll boilerplate theme designed to be a starting point for any Jekyll website.
 
 ![Screenshot](https://raw.githubusercontent.com/Rejoice/alembic/master/screenshot.png)
 
-[Tweet it](https://twitter.com/intent/tweet/?url=https://griva.in&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=Rejoice) | [Tip me $5 💸](https://www.paypal.me/Rejoice/5usd)
+[Tweet it](https://twitter.com/intent/tweet/?url=https://thebladeofgrass.com&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=Rejoice) | [Tip me $5 💸](https://www.paypal.me/Rejoice/5usd)
 
 ## Contents
 - [About](#about)
@@ -160,7 +160,7 @@ There are 2 main types of includes: ones designed for the site and ones that are
 ### `button.html`
 A button that can link to a page of any kind.
 
-Example usage: `{% include button.html text="I'm a button" link="https://david.griva.in" %}`
+Example usage: `{% include button.html text="I'm a button" link="https://david.thebladeofgrass.com" %}`
 
 Available options:
 - `text`: The text of the button _required_

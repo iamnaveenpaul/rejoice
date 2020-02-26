@@ -88,11 +88,11 @@ lang: en-GB # Set the site language
 title: "Rejoice" # Site name or title, also used in jekyll-seo-tag
 #logo: "/assets/logos/logo.png" # Site logo, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.png" # Site logo, also used in jekyll-seo-tag
-description: "Rejoice | Learn Guitar" # Site description and default description, also used in jekyll-seo-tag
-url: "https://griva.in" # Site url, also used in jekyll-seo-tag
+description: "the blade of grass | Learn Guitar" # Site description and default description, also used in jekyll-seo-tag
+url: "https://thebladeofgrass.com" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/Rejoice/alembic"
-email: "hello@griva.in"
+email: "hello@thebladeofgrass.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 google_analytics: 'UA-159115192-1'
 # google_analytics_anonymize_ip: ''
@@ -125,13 +125,13 @@ navigation_header:
 
 navigation_footer:
 - title: Rejoice
-  url: https://griva.in
+  url: https://thebladeofgrass.com
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Twitter: https://twitter.com/Rejoice
   LinkedIn: https://www.linkedin.com/in/Rejoice
   GitHub: https://github.com/Rejoice
-  link: https://griva.in
+  link: https://thebladeofgrass.com
   RSS: /feed.xml
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
