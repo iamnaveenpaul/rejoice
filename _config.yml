@@ -43,15 +43,15 @@ paginate: 12 # jekyll-paginate > items per page
 paginate_path: blog/page:num # jekyll-paginate > blog page
 jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
 twitter:
-  username: GrivaSchoolOfCoding # jekyll-seo-tag > Owners twitter username
-author: GrivaSchoolOfCoding # jekyll-seo-tag > default author
+  username: Rejoice # jekyll-seo-tag > Owners twitter username
+author: Rejoice # jekyll-seo-tag > default author
 social: # jekyll-seo-tag > social overrides
-  name: Griva School of Coding # jekyll-seo-tag > real name
+  name: Rejoice # jekyll-seo-tag > real name
   links:  # jekyll-seo-tag > social aliases (sameAs)
-    - https://twitter.com/GrivaSchoolOfCoding
-    - https://www.facebook.com/GrivaSchoolOfCoding
-    - https://www.linkedin.com/in/GrivaSchoolOfCoding
-    - https://github.com/GrivaSchoolOfCoding
+    - https://twitter.com/Rejoice
+    - https://www.facebook.com/Rejoice
+    - https://www.linkedin.com/in/Rejoice
+    - https://github.com/Rejoice
 # markdown: CommonMark # Markdown parse settings, CommonMark performs slightly better an others in build time
 # commonmark:
   # options: ["SMART", "FOOTNOTES"]
@@ -67,9 +67,9 @@ timezone: Asia/Kolkata # Timezone for blog posts and alike
 # 5. Collections
 collections:
   posts:
-    title: Programming Tutorials # Needed for Siteleaf
+    title: Posts # Needed for Siteleaf
     output: true
-    description: "Learn NodeJS, JavaScript, Java, Express Js, Angular Js/ Angular 6/7/8, React Js" # The post list page content
+    description: "Learn Guitar Chords" # The post list page content
 #    feature_text: |
 #      Welcome to the blog
 #    feature_image: "https://picsum.photos/2560/600?image=866"
@@ -85,16 +85,16 @@ defaults:
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
-title: "Griva School of Coding" # Site name or title, also used in jekyll-seo-tag
+title: "Rejoice" # Site name or title, also used in jekyll-seo-tag
 #logo: "/assets/logos/logo.png" # Site logo, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.png" # Site logo, also used in jekyll-seo-tag
-description: "Griva School of Coding | Learn MEAN stack, JavaScript, NodeJs, MongoDb, Express Js, Java, SpringBoot, Angular, Angular Js, React Js in Bangalore" # Site description and default description, also used in jekyll-seo-tag
+description: "Rejoice | Learn Guitar" # Site description and default description, also used in jekyll-seo-tag
 url: "https://griva.in" # Site url, also used in jekyll-seo-tag
 baseurl: ""
-repo: "https://github.com/GrivaSchoolOfCoding/alembic"
+repo: "https://github.com/Rejoice/alembic"
 email: "hello@griva.in"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
-google_analytics: 'UA-152053875-1'
+google_analytics: 'UA-159115192-1'
 # google_analytics_anonymize_ip: ''
 # service_worker: false # Will turn off the service worker if set to false
 css_inline: true # Will insert all styles into a single <style> block in the <head> element and remove the style <link> reference
@@ -121,16 +121,16 @@ navigation_header:
 - title: Search
   url: /search/
 #- title: Fork Alembic
-#  url: https://github.com/GrivaSchoolOfCoding/alembic
+#  url: https://github.com/Rejoice/alembic
 
 navigation_footer:
-- title: Griva School of Coding
+- title: Rejoice
   url: https://griva.in
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
-  Twitter: https://twitter.com/GrivaSchoolOfCoding
-  LinkedIn: https://www.linkedin.com/in/GrivaSchoolOfCoding
-  GitHub: https://github.com/GrivaSchoolOfCoding
+  Twitter: https://twitter.com/Rejoice
+  LinkedIn: https://www.linkedin.com/in/Rejoice
+  GitHub: https://github.com/Rejoice
   link: https://griva.in
   RSS: /feed.xml
 

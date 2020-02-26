@@ -66,10 +66,10 @@ Once the maintainers get involved, they will follow a documented series of steps
 You may get in touch with the maintainer team through any of the following methods:
 
   * Through email:
-    * [hello@griva.in](mailto:hello@griva.in) (Griva School of Coding)
+    * [hello@griva.in](mailto:hello@griva.in) (Rejoice)
 
   * Through Twitter:
-    * [@GrivaSchoolOfCoding](https://twitter.com/GrivaSchoolOfCoding) (Griva School of Coding)
+    * [@Rejoice](https://twitter.com/Rejoice) (Rejoice)
 
 ### Further Enforcement
 

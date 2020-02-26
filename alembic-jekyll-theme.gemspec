@@ -3,7 +3,7 @@
 Gem::Specification.new do |spec|
   spec.name          = "alembic-jekyll-theme"
   spec.version       = "3.1.0"
-  spec.authors       = ["Griva School of Coding"]
+  spec.authors       = ["Rejoice"]
   spec.email         = ["hello@griva.in"]
 
   spec.summary       = %q{A Jekyll boilerplate theme designed to be a starting point for any Jekyll website.}
