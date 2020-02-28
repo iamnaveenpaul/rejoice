@@ -1,1 +1,14 @@
 <!-- Overwrite this file with code you want before the closing body tag -->
+<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"></script>
+
+<script>
+    $(document).ready(function(){
+        $('[data-name]').each(function (e) {
+        // Set the data-name to the item number
+            $(this).attr('data-name', e);
+
+            // Print the new `data-name` to the console
+            console.log($(this).attr('data-name'));
+        });
+    });
+</script>
